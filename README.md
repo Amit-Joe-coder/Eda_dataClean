@@ -15,4 +15,4 @@ This repository contains scripts and notebooks for Exploratory Data Analysis (ED
 # Prerequisites
 Python 3.7 or higher
 
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+Libraries: pandas, numpy, matplotlib, seaborn
